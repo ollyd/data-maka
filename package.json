@@ -1,0 +1,24 @@
+{
+  "name": "data-maka",
+  "version": "1.0.0",
+  "description": "A demo data creator, using AI to populate nested json objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "data",
+    "factory",
+    "demo",
+    "data"
+  ],
+  "author": "Olly Dutton",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.1",
+    "shelljs": "^0.6.0",
+    "tree-kit": "^0.5.19"
+  }
+}
