@@ -1,6 +1,12 @@
 {
     "id": 0,
-    "name": "Olly Dutton",
-    "likes": ["Whisky", "Tattoos", "Traveling", "Music"],
-    "age": 35           
+    "first_name": "Olly", 
+    "last_name": "Dutton",
+    "email": "ollydutton@datamaka.com",
+    "interests": ["Whisky", "Tattoos", "Traveling", "Music"],
+    "age": 35,
+    "timesheet": {
+        "hours": [7, 8, 8, 7, 4], 
+        "date": ["17-4-2016", "18-4-2016", "19-4-2016", "20-4-2016", "21-4-2016"]
+    }
 }
